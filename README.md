@@ -41,3 +41,5 @@
 <code> Trello</code>
 <code> Jira</code> </p>
 <br/>
+ <h2> 🔗 Contacts </h2>
+<p> <strong>Codepen </strong> <code>@Andrei_Devx</code>
