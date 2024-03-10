@@ -3,6 +3,10 @@
 <h3>Hi, I'm Andrei 😊</h3>
 <p>I'm a 29-year-old developer based in Italy. I'm passionate about crafting digital experiences.</p>
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-andrey&label=Profile%20views&color=0e75b6&style=flat" alt="john-andrey" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-andrey" alt="john-andrey" /></a> </p>
+<br/>
 
 <h2>🧰 Toolbox</h2>
 <br/>
@@ -23,7 +27,7 @@
 <p> <strong>Web service testing tools</strong>
 <code>Postman</code></p>
 
-<p> <strong>Monitoring</strong>
+<p> <strong>Data Visualization</strong>
 <code>Elastic</code></p>
   
 <p> <strong> Version Control</strong>
@@ -40,6 +44,12 @@
 <code> Taskade</code>
 <code> Trello</code>
 <code> Jira</code> </p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-andrey&show_icons=true&locale=en&layout=compact" alt="john-andrey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-andrey&show_icons=true&locale=en" alt="john-andrey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-andrey&" alt="john-andrey" /></p>
 <br/>
  <h2> 🔗 Contacts </h2>
 <p> <strong>Codepen </strong> <code>@Andrei_Devx</code>
