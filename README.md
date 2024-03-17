@@ -1,7 +1,7 @@
 
 
 <h3>Hi, I'm Andrei 😊</h3>
-<p>I'm a 29-year-old developer based in Italy. I'm passionate about crafting digital experiences.</p>
+<p>I'm a 29-year-old developer based in Italy and i'm passionate about crafting digital experiences.</p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-andrey&label=Profile%20views&color=0e75b6&style=flat" alt="john-andrey" /> </p>
 
