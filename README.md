@@ -17,9 +17,12 @@
 <code>Swift</code><p/>
   
 <p> <strong>Web Technologies and Frameworks</strong>
+<code>Java J2EE</code>
+<code>Spring Boot</code>
 <code>HTML</code>
 <code>CSS</code>
 <code>SASS</code>
+<code>Angular</code>
 <code>XML</code>
 <code>Material-UI Design</code>
 <code>API’s: Servlets</code>  <p/>
@@ -50,6 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-andrey&show_icons=true&locale=en" alt="john-andrey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-andrey&" alt="john-andrey" /></p>
+
 <br/>
  <h2> 🔗 Contacts </h2>
 <p> <strong>Codepen </strong> <code>@Andrei_Devx</code>
